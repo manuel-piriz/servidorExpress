@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "PS5",
+    "description": "La mejor consola",
+    "price": 700,
+    "thumbnail": "imagen1.jpg",
+    "code": "ABC123",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "MacBook Pro",
+    "description": "La compu mas buscada",
+    "price": 800,
+    "thumbnail": "imagen2.jpg",
+    "code": "XYZ789",
+    "stock": 12
+  },
+  {
+    "id": 4,
+    "title": "Iphone 15",
+    "description": "El celular mas buscado",
+    "price": 300,
+    "thumbnail": "imagen2.jpg",
+    "code": "UVw456",
+    "stock": 5
+  }
+]

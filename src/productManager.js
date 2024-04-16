@@ -89,9 +89,6 @@ class ProductManager {
 
 const manager = new ProductManager('products.json'); 
 
-console.log(manager.addProduct('Xbox Series', 'La consola el momento', 510, 'imagen1.jpg', 'EFG456', 10));
-console.log(manager.addProduct('Iphone 15', 'El celular mas buscado', 300, 'imagen2.jpg', 'UVw456', 5));
-
 console.log(manager.getProducts());
 
 try {
@@ -108,7 +105,7 @@ try {
 }
 
 try {
-    console.log(manager.deleteProduct(3));
+    console.log(manager.deleteProduct(8));
 } catch (error) {
     console.error(error.message);
 }

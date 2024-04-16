@@ -3,7 +3,7 @@
     "id": 1,
     "title": "PS5",
     "description": "La mejor consola",
-    "price": 700,
+    "price": 500,
     "thumbnail": "imagen1.jpg",
     "code": "ABC123",
     "stock": 15
@@ -18,12 +18,21 @@
     "stock": 12
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "Iphone 15",
     "description": "El celular mas buscado",
     "price": 300,
     "thumbnail": "imagen2.jpg",
     "code": "UVw456",
     "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "Xbox Series",
+    "description": "La consola el momento",
+    "price": 510,
+    "thumbnail": "imagen1.jpg",
+    "code": "EFG456",
+    "stock": 10
   }
 ]

@@ -92,7 +92,7 @@ const manager = new ProductManager('products.json');
 console.log(manager.getProducts());
 
 try {
-    console.log(manager.getProductById(1));
+    console.log(manager.getProductById(2));
 } catch (error) {
     console.error(error.message);
 }
